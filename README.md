@@ -1,5 +1,5 @@
 # Recaptured-screen-image-identification-based-on-vision-transformer
-codecs for "Li G, Yao H, Le Y, et al. Recaptured screen image identification based on vision transformer[J]. Journal of Visual Communication and Image Representation, 2023, 90: 103692."
+Codecs for "Li G, Yao H, Le Y, et al. Recaptured screen image identification based on vision transformer[J]. Journal of Visual Communication and Image Representation, 2023, 90: 103692."
 # Prerequisites
 * Windows
 * Python=3
